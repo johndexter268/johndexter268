@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 Graduate of <b>Bachelor of Science in Information Technology</b><br>
-Major in <b>Service Management</b><br>
+Specialization Track in <b>Service Management</b><br>
 at <b>Batangas State University</b>
 </p>
 
